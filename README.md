@@ -52,17 +52,21 @@ python index.py
 
 ## 🎮 How to Run the Program
 
-[ Grid Initialization ]
-          ↓
-[ Maze Generation / User Setup ]
-          ↓
-[ Dijkstra Algorithm ]
-          ↓
-[ Adaptive Heuristic Dijkstra ]
-          ↓
-[ Node Exploration Visualization ]
-          ↓
-[ Performance Metrics Comparison ]
+<p align="center">
+
+**Grid Initialization**  
+⬇️  
+**Maze Generation / User Setup**  
+⬇️  
+**Dijkstra Algorithm**  
+⬇️  
+**Adaptive Heuristic Dijkstra**  
+⬇️  
+**Node Exploration Visualization**  
+⬇️  
+**Performance Metrics Comparison**
+
+</p>
 
 ---
 
